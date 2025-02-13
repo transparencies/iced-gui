@@ -17,7 +17,10 @@ serde.features = ["derive"]
 
 bytes.workspace = true
 image.workspace = true
+sipper.workspace = true
 tokio.workspace = true
+
+blurhash = "0.2.3"
 
 [lints]
 workspace = true
